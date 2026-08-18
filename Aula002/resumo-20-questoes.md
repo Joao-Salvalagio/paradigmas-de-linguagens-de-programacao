@@ -1,8 +1,8 @@
 # Resumo Autoexplicativo — 20 Questões do Capítulo 2 (Sebesta)
 
-**Disciplina:** Paradigmas de Linguagens de Programação
-**Professor:** Munif Gebara Junior
-**Aluno:** João Miguel Silva Salvalagio
+**Disciplina:** Paradigmas de Linguagens de Programação<br>
+**Professor:** Munif Gebara Junior<br>
+**Aluno:** João Miguel Silva Salvalagio<br>
 **Base:** SEBESTA, Robert W. *Conceitos de Linguagens de Programação*, 11ª ed. — Capítulo 2, *Evolução das principais linguagens de programação* (páginas 49–118 do PDF)
 
 ---

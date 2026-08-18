@@ -1,8 +1,8 @@
 # Aula 002 — Lista de Exercícios: Evolução das Principais Linguagens de Programação
 
-**Disciplina:** Paradigmas de Linguagens de Programação
-**Professor:** Munif Gebara Junior
-**Aluno:** João Miguel Silva Salvalagio
+**Disciplina:** Paradigmas de Linguagens de Programação<br>
+**Professor:** Munif Gebara Junior<br>
+**Aluno:** João Miguel Silva Salvalagio<br>
 **Referência:** SEBESTA, Robert W. *Conceitos de Linguagens de Programação* — Capítulo 2
 
 ---
@@ -30,7 +30,7 @@ As afirmações históricas foram conferidas diretamente contra o texto do Capí
 
 > *A genealogia das linguagens não é uma escada de progresso. Explique essa afirmação e apresente dois fatores históricos que fazem uma linguagem influenciar outra sem necessariamente substituí-la.*
 
-**Resposta.**
+**Resposta:**
 
 A metáfora da "escada de progresso" sugere que cada linguagem nova seria estritamente melhor que a anterior e a tornaria obsoleta. A história do Capítulo 2 mostra o contrário: o desenvolvimento das linguagens é uma **árvore genealógica com ramos paralelos, cruzamentos e becos sem saída**, não uma linha ascendente.
 
@@ -55,7 +55,7 @@ Três evidências disso:
 
 > *Lisp surgiu em um contexto diferente de Fortran. Compare os domínios, a representação de dados e o estilo de computação favorecido pelas duas linguagens.*
 
-**Resposta.**
+**Resposta:**
 
 Esta é, na prática, a **primeira bifurcação de paradigmas da história**: de um lado o imperativo orientado a máquina, do outro o funcional orientado a símbolos.
 
@@ -103,7 +103,7 @@ O domínio numérico tem **tamanho conhecido antecipadamente** (uma matriz 100×
 
 > *Avalie três contribuições de ALGOL 60 que ultrapassaram sua adoção comercial. Por que uma linguagem pode ser muito influente sem dominar o mercado?*
 
-**Resposta.**
+**Resposta:**
 
 ALGOL 60 foi um fracasso comercial (nunca teve apoio da IBM, não tinha E/S padronizada, competia com Fortran já estabelecido), mas é provavelmente a linguagem mais influente já criada.
 
@@ -135,7 +135,7 @@ Porque **adoção** e **influência** dependem de fatores diferentes:
 
 > *APL, SNOBOL e SIMULA 67 seguiram direções distintas. Associe cada linguagem ao seu foco e identifique uma contribuição duradoura de cada uma.*
 
-**Resposta.**
+**Resposta:**
 
 As três são **linguagens de propósito especial** dos anos 1960 que provam que o domínio molda o projeto — e duas delas fundaram paradigmas inteiros.
 
@@ -170,7 +170,7 @@ Isso não anula o argumento acima, mas exige distinguir dois tipos de legado:
 
 > *Defina ortogonalidade no projeto de linguagens e use ALGOL 68 para discutir a diferença entre regularidade e simplicidade. Uma linguagem muito ortogonal é automaticamente fácil de usar?*
 
-**Resposta.**
+**Resposta:**
 
 ### Definição
 
@@ -224,7 +224,7 @@ Comparação prática:
 
 > *Construa uma cadeia de influência que passe por ALGOL, Pascal e C. Depois contraste essa linhagem imperativa com a proposta declarativa de Prolog.*
 
-**Resposta.**
+**Resposta:**
 
 ### A cadeia imperativa
 
@@ -299,7 +299,7 @@ Na versão Prolog não há laço, verificação de nulo nem ordem de busca escri
 
 > *Modele em linguagem natural uma pequena base Prolog com dois fatos, uma regra e uma consulta. Explique por que isso representa programação lógica, não apenas armazenamento de dados.*
 
-**Resposta.**
+**Resposta:**
 
 ### O modelo em linguagem natural
 
@@ -358,7 +358,7 @@ E note o que **não** foi escrito: nenhum laço, nenhuma pilha de visitados, nen
 
 > *Compare o papel dos objetos em Smalltalk, C++ e Java. Inclua na resposta o compromisso de C++ com C e a estratégia de portabilidade de Java.*
 
-**Resposta.**
+**Resposta:**
 
 As três representam **três graus diferentes de compromisso com a orientação a objetos**: OO pura, OO híbrida e OO obrigatória mas pragmática.
 
@@ -411,7 +411,7 @@ A trajetória Smalltalk → C++ → Java mostra o paradigma OO sendo **negociado
 
 > *Compare Perl, JavaScript, PHP, Python, Ruby e Lua usando três eixos: domínio inicial, estruturas de dados e estratégia de implementação. Evite concluir que todas são iguais por serem chamadas de scripting.*
 
-**Resposta.**
+**Resposta:**
 
 "Linguagem de script" descreve um **modo de uso** (interpretada, tipagem dinâmica, ciclo rápido de edição-execução), não um projeto comum. As seis divergem profundamente em origem e estrutura.
 
@@ -451,7 +451,7 @@ Chamar as seis de "scripting" descreve apenas a superfície compartilhada. Sob e
 
 > *Estudo de caso: uma equipe precisa escolher tecnologias para cálculo científico, regras declarativas, aplicação Web interativa e firmware restrito. Proponha famílias de linguagens, justifique historicamente cada escolha e explicite dois trade-offs.*
 
-**Resposta.**
+**Resposta:**
 
 Este exercício é a **síntese aplicada** do capítulo: o argumento é que a genealogia das linguagens não é curiosidade histórica — ela **prevê** qual família se encaixa em qual domínio, porque cada família foi *moldada* pelo domínio que a originou.
 
